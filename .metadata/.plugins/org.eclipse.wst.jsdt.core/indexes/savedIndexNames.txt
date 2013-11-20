@@ -1,0 +1,7 @@
+INDEX VERSION 1.122+C:\Users\JNT\Documents\GitHub\LojaVirtual\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+159348093.index
+4066887749.index
+3793043894.index
+2135330911.index
+915984135.index
+2813162880.index
